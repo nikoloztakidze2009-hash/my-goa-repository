@@ -24,7 +24,6 @@ height=9
 
 print(width * height)
 print(2*(width + height ))
-
 # ============================================================================
 
 # კონკანტინაცია =  stringebi-ის შეერთება 
@@ -40,4 +39,3 @@ height=172
 print(name)
 print(age)
 print(height)
-print(age+height)
