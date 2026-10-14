@@ -10,3 +10,6 @@ age = int(input("ENTER AGE: "))
 
 print("your age" +  str(age))
 
+age = "77"
+x = type(age)
+print(x)
